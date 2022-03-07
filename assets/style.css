@@ -82,6 +82,7 @@ h3 {
     position: relative;
 }
 header {
+    border-top: solid;
     background-color: var(--clr-dark);
     /*display:inline;
     flex-direction: row;
@@ -105,7 +106,9 @@ header {
     display:flex;
     justify-content: space-evenly;
 }
-
+.nav li:hover {
+    text-decoration: underline;
+}
 .intro__img {
     box-shadow: var(--bs);
 }
