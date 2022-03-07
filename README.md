@@ -13,7 +13,7 @@ This weeks challenge is to build my own personal website using the skills that I
 -CSS
 
 ### URL of the deployed application:
-https://amadayasuki.github.io/Horiseon--Challenge-1/
+https://amadayasuki.github.io/Sensess-Website/
 
 ### Screenshot of the deployed application:
 
